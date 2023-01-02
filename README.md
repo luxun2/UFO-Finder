@@ -7,7 +7,7 @@ Here in this project we became acquainted with the fundamental of Javascript and
 
 ## Results:
 
-There is a description of how to perform a search, with images. (4 pt)
+There is a description of how to perform a search, with images. 
 Summary: To perform a search open the htlm file in a browser. Input changes into the fields at your discretion and the page will make changes automatically after clicking out of the field. A person can use the webpage to narrow down UFO sighting by using either a states initials, a date, city, county, or shape. You can see the page update as shown below. 
 
 ![This is an image](https://i.imgur.com/qx0AhaR.png)
